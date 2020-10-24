@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 997;
   transition: all 0.5s;
   padding: 16px 0;
-  background: #0A6EFF;
+  background: #213b52;
 }
 
 #header .logo h1 {
@@ -130,7 +130,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .get-started a {
-  background: #0A6EFF;
+  background: #213b52;
   color: #fff;
   border-radius: 50px;
   margin: 2px 0 0 15px;
@@ -348,7 +348,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   padding: 0 0 0 0;
-  background: #0A6EFF;
+  background: #213b52;
   background: linear-gradient(180deg, #213b52 0%, #213c54 %, #204564 %);
 }
 
@@ -364,7 +364,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero h2 {
   color: #fff;
   margin-bottom: 30px;
-  font-size: 22px;
+  font-size: 20px;
 }
 
 #hero .btn-get-started {
@@ -474,7 +474,7 @@ section {
 # Clients
 --------------------------------------------------------------*/
 .clients {
-  padding: 0;
+  padding: 0; 
 }
 
 .clients .client-logo {
@@ -486,7 +486,7 @@ section {
 }
 
 .clients .client-logo img {
-  height: 70px;
+  height: 80px;
 }
 
 .clients .client-logo:hover img {
